@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.0.0"
+  version: "1.2.0"
 
 package:
   name: quarantine-py
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/q/quarantine-py/quarantine_py-${{ version }}.tar.gz
-  sha256: 644aa6791f7666851b9345829af6efea66cc38702ffb12efb5dfe3252355d38e
+  sha256: 027ef09d81bf913c06e8206da42d9b09cbf2e03891e75691c244d8111c13cb4b
 
 build:
   number: 0
